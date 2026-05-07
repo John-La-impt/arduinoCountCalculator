@@ -4,10 +4,10 @@
  
 ## Components Used
 
-1 x Arduino Uno R3
-1 x LCD 1602 (16x2 display)
-1 x potentiometer
-4 x buttons
+1 x Arduino Uno R3 \n
+1 x LCD 1602 (16x2 display) \n
+1 x potentiometer \n
+4 x buttons \n
 
 --------------
 
